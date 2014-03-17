@@ -1,5 +1,5 @@
 #
-# Makefile to simplify installtion of pg_monz
+# Makefile to simplify installation of pg_monz
 #
 
 PREFIX			?= /usr/local
